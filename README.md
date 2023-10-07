@@ -23,15 +23,16 @@ Click the operator buttons (+, -, *, /) to perform operations.<br/>
 Click the "AC" button to clear the display.<br/>
 Click the "DE" button to delete the last character.<br/>
 Click the "." button to add a decimal point.<br/>
-Click the "=" button to evaluate the expression.<br/>
-# Customization<br/>
-You can customize the styling of the calculator by modifying the style.css file to match your preferences.<br/>
+Click the "=" button to evaluate the expression.<br/><hr>
 
-# License<br/>
-This calculator web app is open-source and available under the MIT License. You are free to use, modify, and distribute it as needed. See the LICENSE file for details.<br/>
+# Customization<br/>
+You can customize the styling of the calculator by modifying the style.css file to match your preferences.<br/><hr>
+
+# License 
+This calculator web app is open-source and available under the MIT License. You are free to use, modify, and distribute it as needed. See the LICENSE file for details.<br/><hr>
 
 # Acknowledgments<br/>
-This project was created for educational purposes and is inspired by simple calculator applications commonly found in web development tutorials.<br/>
+This project was created for educational purposes and is inspired by simple calculator applications commonly found in web development tutorials.<br/><hr>
 
 # Author <br/>
 [Akintunde Oyelakin(CodewithOye)]<br/>
